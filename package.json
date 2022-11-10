@@ -9,11 +9,11 @@
   },
   "devDependencies": {
     "@esbuild-plugins/node-globals-polyfill": "^0.1.1",
-    "@esbuild-plugins/node-modules-polyfill": "^0.1.4",
-    "nuxt": "3.0.0-rc.13",
-    "vite-compatible-readable-stream": "^3.6.1",
+    "@rollup/plugin-inject": "^5.0.2",
     "buffer": "^6.0.3",
-    "events": "^3.3.0"
+    "events": "^3.3.0",
+    "nuxt": "3.0.0-rc.13",
+    "vite-compatible-readable-stream": "^3.6.1"
   },
   "dependencies": {
     "@airgap/beacon-sdk": "^3.3.0",
