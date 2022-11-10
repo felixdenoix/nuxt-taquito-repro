@@ -11,7 +11,11 @@
     "nuxt": "3.0.0-rc.13"
   },
   "dependencies": {
+    "@airgap/beacon-sdk": "^3.3.0",
     "@taquito/beacon-wallet": "^14.1.0",
-    "@taquito/taquito": "^14.1.0"
+    "@taquito/taquito": "^14.1.0",
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
+    "vite-compatible-readable-stream": "^3.6.1"
   }
 }
